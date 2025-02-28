@@ -310,7 +310,7 @@ const App: React.FC = () => {
             >
               <div className="md:order-2 mb-8 md:mb-0">
                 <img 
-                  src="/akash.jpg" 
+                  src="dist/akash.jpg" 
                   alt="Akash Devulapally" 
                   className="profile-image w-48 h-48 md:w-64 md:h-64 object-cover"
                 />
